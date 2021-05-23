@@ -46,3 +46,5 @@ ideas:
 -----
 let units choose to not participate in a mission if there are too many members (don't want to split the loot) or demand
 higher percentage etc
+
+doctor on staff to mend injuries
