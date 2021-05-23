@@ -1,0 +1,48 @@
+1. DNA
+2. Recruiting
+3. simulation battle
+4. team composition
+5. monster selection
+6. mission reward
+7. training / leveling up
+
+CONCEPTS:
+--------
+historical statistics for units
+personalities: greedy, arogant. friendly, stubborn
+tactics: burst down. Wait for opportunities. Outlast/wear down
+
+interaction between team members:
+--------------------------------
+
+per unit:
+--------
+spiderweb diagram view for stats
+highlevel average score
+wages
+motivation
+happiness
+gear
+contracts
+
+stats:
+-----
+age / expected age for race
+categories: physical, mental,
+animal handling
+teamwork
+vision/powers of observation
+strength
+reflexes
+insticts
+
+
+types of missions:
+positions in a team: scout, ranged, frontline, tank, burst
+classes:
+
+
+ideas:
+-----
+let units choose to not participate in a mission if there are too many members (don't want to split the loot) or demand
+higher percentage etc
